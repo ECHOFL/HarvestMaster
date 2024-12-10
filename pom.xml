@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>me.fliqq</groupId>
-  <artifactId>template</artifactId>
+  <artifactId>harvestmaster</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
-  <name>template</name>
+  <name>harvestmaster</name>
 
     <properties>
         <java.version>21</java.version>
